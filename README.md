@@ -4,6 +4,9 @@ A responsive recipe discovery application built with **React** and **Tailwind CS
 
 Search for meals, explore their ingredients and cooking instructions, and save your favorite recipes for later.
 
+## Live Demo
+https://test-recipe-finder-three.vercel.app/
+
 ## ✨ Features
 
 - **Search Recipes:** Find recipes by entering a meal name.
